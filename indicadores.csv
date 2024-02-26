@@ -1,0 +1,45 @@
+﻿Categoria;Indicador
+Completáveis;Fases completadas
+Completáveis;Número de tentativas
+Completáveis;Número de acertos
+Completáveis;Número de erros
+Completáveis;Número de vezes que a fase foi pulada
+Completáveis;Número de resets de fase
+Completáveis;Pontuação de jogador
+Completáveis;Pontuação máxima na fase
+Completáveis;Ação desbloqueada por jogador
+Completáveis;Posição atual do jogador
+Rastreamento de Tempo;Tempo de jogadores em tarefas ou fases
+Rastreamento de Tempo;Tempo de jogadores no total
+Rastreamento de Tempo;Tempo de inatividade
+Rastreamento de Tempo;Tempo de duração das sessões
+Rastreamento de Tempo;Horários de pico de uso
+Rastreamento de Tempo;Horário de início de uma atividade
+Interações do Usuário;Cliques
+Interações do Usuário;Seleções de menu
+Interações do Usuário;Caminho dos jogadores pelo jogo
+Interações do Usuário;Número de acesso a recursos
+Interações do Usuário;Áreas inexploradas
+Interações do Usuário;Número de mensagens enviadas/recebidas no chat
+Interações do Usuário;Engajamento por fase
+Interações do Usuário;Interações
+Agrupamento de Jogadores;Por fase alcançada
+Agrupamento de Jogadores;Por estilo de jogo
+Agrupamento de Jogadores;Por desempenho
+Agrupamento de Jogadores;Por conquistas
+Agrupamento de Jogadores;Por número de acertos
+Agrupamento de Jogadores;Por número de erros
+Agrupamento de Jogadores;Por tempo total de jogo
+Agrupamento de Jogadores;Por configurações escolhidas
+Agrupamento de Fases;Por número de jogadores
+Agrupamento de Fases;Por número de erros
+Agrupamento de Fases;Por número de acertos
+Agrupamento de Fases;Por taxa de erros
+Agrupamento de Fases;Por taxa de acertos
+Curvas de Aprendizado;Progresso de jogadores por fases
+Curvas de Aprendizado;Progresso dos jogadores ao longo do tempo
+Dados que precisam de outros dispositivos;Tempo para primeira fixação (Eye-Tracking)
+Dados que precisam de outros dispositivos;Tempo de fixação específica (Eye-Tracking)
+Dados que precisam de outros dispositivos;Fixação de usuário (Eye-Tracking)
+Dados que precisam de outros dispositivos;Tempo em que jogadores pareciam frustrados ou confusos (Reconhecimento Facial)
+Dados que precisam de outros dispositivos;Interação com recursos (Eye-Gaze)
